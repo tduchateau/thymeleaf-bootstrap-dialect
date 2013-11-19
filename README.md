@@ -37,3 +37,7 @@ Just replace the <code>type</code> attribute value by <tt>pills</tt> !
 
     <bootstrap:nav type="pills">
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tduchateau/thymeleaf-bootstrap-dialect/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
